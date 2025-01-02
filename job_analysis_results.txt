@@ -1,0 +1,97 @@
+After analyzing the resume and job listings, here is the output in a beautified, structured format:
+
+**Artificial Intelligence**
+
+* **Job Title:** AI/ML Engineer
+* **Company:** IBM
+* **Category:** Must Apply
+* **Strengths:** Experience with AI-driven platforms, ML models, and programming languages like Python, JavaScript, and Go.
+* **Areas of Improvement:** None mentioned in the job description.
+* **Reason for Categorization:** The job requires skills that the user already possesses, such as experience with AI-driven platforms and ML models.
+
+* **Job Title:** AI Research Intern
+* **Company:** Google
+* **Category:** Good Fit
+* **Strengths:** Experience with ML models, programming languages like Python, and data science skills.
+* **Areas of Improvement:** The job requires research experience, which is not explicitly mentioned in the resume.
+* **Reason for Categorization:** The job requires skills that the user mostly possesses, but lacks research experience.
+
+**Data Science**
+
+* **Job Title:** Data Scientist
+* **Company:** Amazon
+* **Category:** Must Apply
+* **Strengths:** Experience with data science, ML models, programming languages like Python, and data visualization tools like Tableau.
+* **Areas of Improvement:** None mentioned in the job description.
+* **Reason for Categorization:** The job requires skills that the user already possesses, such as experience with data science and ML models.
+
+* **Job Title:** Junior Data Analyst
+* **Company:** Accenture
+* **Category:** Neutral
+* **Strengths:** Experience with data analysis, programming languages like Python, and data visualization tools like Tableau.
+* **Areas of Improvement:** The job requires experience with statistical modeling, which is not explicitly mentioned in the resume.
+* **Reason for Categorization:** The job requires some skills that the user possesses, but lacks experience with statistical modeling.
+
+**Cloud Computing**
+
+* **Job Title:** Cloud Engineer
+* **Company:** Microsoft
+* **Category:** Good Fit
+* **Strengths:** Experience with cloud platforms like AWS and programming languages like Python.
+* **Areas of Improvement:** The job requires experience with Azure, which is not explicitly mentioned in the resume.
+* **Reason for Categorization:** The job requires skills that the user mostly possesses, but lacks experience with Azure.
+
+* **Job Title:** Cloud Architect
+* **Company:** Oracle
+* **Category:** Doesn't Align
+* **Strengths:** Experience with cloud platforms like AWS and programming languages like Python.
+* **Areas of Improvement:** The job requires experience with Oracle Cloud, which is not explicitly mentioned in the resume, and also requires more senior-level experience.
+* **Reason for Categorization:** The job requires skills and experience that the user lacks.
+
+**Natural Language Processing**
+
+* **Job Title:** NLP Engineer
+* **Company:** Facebook
+* **Category:** Must Apply
+* **Strengths:** Experience with NLP techniques, programming languages like Python, and ML models.
+* **Areas of Improvement:** None mentioned in the job description.
+* **Reason for Categorization:** The job requires skills that the user already possesses, such as experience with NLP techniques and ML models.
+
+* **Job Title:** Conversational AI Engineer
+* **Company:** Salesforce
+* **Category:** Good Fit
+* **Strengths:** Experience with NLP techniques, programming languages like Python, and ML models.
+* **Areas of Improvement:** The job requires experience with conversational AI, which is not explicitly mentioned in the resume.
+* **Reason for Categorization:** The job requires skills that the user mostly possesses, but lacks experience with conversational AI.
+
+**Machine Learning**
+
+* **Job Title:** Machine Learning Engineer
+* **Company:** NVIDIA
+* **Category:** Must Apply
+* **Strengths:** Experience with ML models, programming languages like Python, and data science skills.
+* **Areas of Improvement:** None mentioned in the job description.
+* **Reason for Categorization:** The job requires skills that the user already possesses, such as experience with ML models and data science skills.
+
+* **Job Title:** ML Research Intern
+* **Company:** Stanford University
+* **Category:** Good Fit
+* **Strengths:** Experience with ML models, programming languages like Python, and data science skills.
+* **Areas of Improvement:** The job requires research experience, which is not explicitly mentioned in the resume.
+* **Reason for Categorization:** The job requires skills that the user mostly possesses, but lacks research experience.
+
+**Web Development**
+
+* **Job Title:** Full Stack Developer
+* **Company:** Netflix
+* **Category:** Neutral
+* **Strengths:** Experience with programming languages like Python, JavaScript, and Go, and web development frameworks like MERN stack.
+* **Areas of Improvement:** The job requires experience with full-stack development, which is not explicitly mentioned in the resume.
+* **Reason for Categorization:** The job requires some skills that the user possesses, but lacks experience with full-stack development.
+
+* **Job Title:** Frontend Developer
+* **Company:** Airbnb
+* **Category:** Doesn't Align
+* **Strengths:** Experience with programming languages like Python, JavaScript, and Go, and web development frameworks like MERN stack.
+* **Areas of Improvement:** The job requires experience with frontend development, which is not explicitly mentioned in the resume, and also requires more senior-level experience.
+* **Reason for Categorization:** The job requires skills and experience that the user lacks.
