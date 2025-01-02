@@ -12,14 +12,13 @@ The Job Search Platform is a lightweight, AI-powered application built using **S
 ## Tech Stack
 - **Frontend**: Streamlit
 - **Job Data Scraping**: Python scripts (e.g., `scrap.py`)
-- **AI/ML**: Python, NLP libraries (e.g., spaCy)
 - **File Processing**: Python script for PDF parsing (e.g., `pdf.py`)
 
 ### Installation Steps
 1. Clone the repository:
    ```bash
    git clone https://github.com/snehaapratap/Job-Search.git
-   cd job-search-platform
+   cd Job-Search
    ```
 
 2. Run the Streamlit app:
